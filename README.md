@@ -3,7 +3,7 @@ The aim of this project was the remote recording of the level of a tank filled w
 To implement, a system designed for receiving data from a sensor and automated dispatch and visualize the data in a web page. 
 At the webpage the data are recorded and analyzed.
 
-The content of this thesis is divided into three parts.
+The content is divided into three parts.
 
 1. The theoretical part analyzes the specifications and requirements
 for the overall system.
