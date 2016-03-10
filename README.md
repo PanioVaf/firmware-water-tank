@@ -4,6 +4,7 @@ To implement, a system designed for receiving data from a sensor and automated d
 At the webpage the data are recorded and analyzed.
 
 The content of this thesis is divided into three parts.
+
 1. The theoretical part analyzes the specifications and requirements
 for the overall system.
 2. The implementation part, presents the collection and the assembly
